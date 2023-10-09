@@ -1,8 +1,12 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./templates/*"],
+  content: ["./templates/*"], // Location of HTML to watch
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'sans': ['Verdana', 'sans'], // Add Verdana to the sans-serif font family
+      },
+    },
   },
   plugins: [],
 }
