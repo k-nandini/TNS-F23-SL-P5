@@ -11,9 +11,9 @@ Assignment 4 for Core Systems Lab - Self as System (Digital Diva)
 4) To remove duplicates change the URL to "~/remove_duplicates"
 
 # DO NOTE: - Remove duplicates has known bugs and will remove all data.
-	- Hence: - For now please execute "step 4" and then execute "step 3" to only import fresh data.
+- Hence: - For now please execute "step 4" and then execute "step 3" to only import fresh data.
  
 # Future areas of improvement
-	- Animation for advice text: - advice could be shown with a typing animation like ChatGPT. 
- 	- Fix remove_duplicates function.
-	- Add better navigation and make the app more intuitive.
+- Animation for advice text: - advice could be shown with a typing animation like ChatGPT. 
+- Fix remove_duplicates function.
+- Add better navigation and make the app more intuitive.
