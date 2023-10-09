@@ -19,3 +19,5 @@ Assignment 4 for Core Systems Lab - Self as System (Digital Diva)
 - Add better navigation and make the app more intuitive.
 - Create a page to upload the CSV/Update the CSV file from the web page.
 - Add Authentication for backend functions such as updating DB from CSV, and removing duplicates.
+- Random color generated background
+- User can input a question before generating a random quote from DB, so it is more interactive (like an actual life coach).
