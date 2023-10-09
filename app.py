@@ -19,7 +19,7 @@
 #
 
 #
-# ISSUES (BIG-TRACKER)
+# ISSUES (BUG-TRACKER)
 #
 # The Duplicate removal function removes all data from DB
 # Add animations
