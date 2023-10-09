@@ -22,6 +22,10 @@
 # ISSUES (BIG-TRACKER)
 #
 # The Duplicate removal function removes all data from DB
+# Add animations
+# Add a navigation/improve navigation for user, by creating some type of hint on how to use the app such as:
+# - Press Spacebar
+# - Tap here
 #
 
 # Import necessary modules and create a Flask app
