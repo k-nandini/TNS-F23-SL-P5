@@ -17,3 +17,5 @@ Assignment 4 for Core Systems Lab - Self as System (Digital Diva)
 - Animation for advice text: - advice could be shown with a typing animation like ChatGPT. 
 - Fix remove_duplicates function.
 - Add better navigation and make the app more intuitive.
+- Create a page to upload the CSV/Update the CSV file from the web page.
+- Add Authentication for backend functions such as updating DB from CSV, and removing duplicates.
