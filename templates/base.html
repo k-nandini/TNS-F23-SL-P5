@@ -1,0 +1,31 @@
+<!-- Main HTML Template for the Application -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta tags for character set, viewport, and compatibility -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- Dynamic Jinja Block for Head Template -->
+    {% block head %}{% endblock %}
+    <!-- Link to External CSS Using Dynamic URL -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+  <!-- Dynamic Jinja Block for Body Template -->
+  {% block body %}{% endblock %}
+  <!-- Footer Section -->
+  <footer class="text-gray-600 body-font">
+    <div class="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">    
+      <!-- Footer Content -->
+      <a class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
+        <span class="ml-3 text-xl">TNS</span>
+      </a>    
+      <!-- Copyright and License Information -->
+      <p class="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">© 2023 Nandini Kumar —
+        <a href="https://opensource.org/license/mit/" class="text-gray-600 ml-1" rel="noopener noreferrer" target="_blank">MIT License</a>
+      </p>
+    </div>
+  </footer>
+</body>
+</html>
