@@ -8,6 +8,7 @@ Assignment 4 for Core Systems Lab - Self as System (Digital Diva)
 3) To update advice change the URL to "~/import_data"
    	- This will update the database from the CSV file and add new data.
    	- The data in the CSV file is generated from my Youtube Comments data.
+   	- NOTE: The CSV file is located in the static folder >> assets >> csv.
 4) To remove duplicates change the URL to "~/remove_duplicates"
 
 # DO NOTE: - Remove duplicates has known bugs and will remove all data.
