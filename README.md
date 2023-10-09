@@ -10,9 +10,8 @@ Assignment 4 for Core Systems Lab - Self as System (Digital Diva)
    	- The data in the CSV file is generated from my Youtube Comments data.
    	- NOTE: The CSV file is located in the static folder >> assets >> csv.
 4) To remove duplicates change the URL to "~/remove_duplicates"
-
-# DO NOTE: - Remove duplicates has known bugs and will remove all data.
-- Hence: - For now please execute "step 4" and then execute "step 3" to only import fresh data.
+	- NOTE: - Remove duplicates has known bugs and will remove all data.
+	- Hence: - For now please execute "step 4" and then execute "step 3" to only import fresh data.
  
 # Future areas of improvement
 - Animation for advice text: - advice could be shown with a typing animation like ChatGPT. 
